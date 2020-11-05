@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/react-portfolio/static/css/main.5c19a8da.chunk.css",
+    "main.js": "/react-portfolio/static/js/main.7096267f.chunk.js",
+    "main.js.map": "/react-portfolio/static/js/main.7096267f.chunk.js.map",
+    "runtime-main.js": "/react-portfolio/static/js/runtime-main.878633cf.js",
+    "runtime-main.js.map": "/react-portfolio/static/js/runtime-main.878633cf.js.map",
+    "static/js/2.1d4e2e0f.chunk.js": "/react-portfolio/static/js/2.1d4e2e0f.chunk.js",
+    "static/js/2.1d4e2e0f.chunk.js.map": "/react-portfolio/static/js/2.1d4e2e0f.chunk.js.map",
+    "static/js/3.5cb04089.chunk.js": "/react-portfolio/static/js/3.5cb04089.chunk.js",
+    "static/js/3.5cb04089.chunk.js.map": "/react-portfolio/static/js/3.5cb04089.chunk.js.map",
+    "index.html": "/react-portfolio/index.html",
+    "static/css/main.5c19a8da.chunk.css.map": "/react-portfolio/static/css/main.5c19a8da.chunk.css.map",
+    "static/js/2.1d4e2e0f.chunk.js.LICENSE.txt": "/react-portfolio/static/js/2.1d4e2e0f.chunk.js.LICENSE.txt",
+    "static/media/SEEKR-LOGO-NEW2.fcc0509c.png": "/react-portfolio/static/media/SEEKR-LOGO-NEW2.fcc0509c.png",
+    "static/media/codingquiz.c4f62f9a.png": "/react-portfolio/static/media/codingquiz.c4f62f9a.png",
+    "static/media/exercise-tracker.4a9116a4.png": "/react-portfolio/static/media/exercise-tracker.4a9116a4.png",
+    "static/media/headshot.d949c876.png": "/react-portfolio/static/media/headshot.d949c876.png",
+    "static/media/App.css": "/react-portfolio/static/media/ignasi_pattern_s.e887c5a2.png",
+    "static/media/weather-dashboard.45f9262d.png": "/react-portfolio/static/media/weather-dashboard.45f9262d.png",
+    "static/media/whatsfordinner.e3f422b8.png": "/react-portfolio/static/media/whatsfordinner.e3f422b8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.878633cf.js",
+    "static/js/2.1d4e2e0f.chunk.js",
+    "static/css/main.5c19a8da.chunk.css",
+    "static/js/main.7096267f.chunk.js"
+  ]
+}
